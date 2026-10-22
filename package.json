@@ -6,7 +6,7 @@
   "description": "亿企工场官方网站",
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/wangyanghub/art-supabase-site.git"
+    "url": "https://gitee.com/art-si/art-supabase-site.git"
   },
   "license": "MulanPSL-2.0",
   "packageManager": "pnpm@11.28.2",

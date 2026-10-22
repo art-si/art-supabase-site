@@ -9,7 +9,7 @@ export interface ProductModule {
   tone: string
 }
 
-const gitee = 'https://gitee.com/wangyanghub/'
+const gitee = 'https://gitee.com/art-si/'
 
 export const modules: ProductModule[] = [
   {
@@ -95,8 +95,8 @@ export const modules: ProductModule[] = [
 ]
 
 export const links = {
-  demo: 'https://869123771.github.io/art-supabase-pro/',
-  docs: 'https://869123771.github.io/art-supabase-doc/',
+  demo: 'https://art-si.github.io/art-supabase-pro/',
+  docs: 'https://art-si.github.io/art-supabase-doc/',
   source: `${gitee}art-supabase-pro`,
   driver: `${gitee}supabase-mobile-tms-driver`,
 }

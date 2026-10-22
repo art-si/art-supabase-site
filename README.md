@@ -5,10 +5,10 @@
 ## 项目位置
 
 - 官网子仓：`modules/art-supabase-site`
-- Gitee：https://gitee.com/wangyanghub/art-supabase-site
-- 主平台：https://gitee.com/wangyanghub/art-supabase-pro
-- 在线演示：https://869123771.github.io/art-supabase-pro/
-- 产品文档：https://869123771.github.io/art-supabase-doc/
+- Gitee：https://gitee.com/art-si/art-supabase-site
+- 主平台：https://gitee.com/art-si/art-supabase-pro
+- 在线演示：https://art-si.github.io/art-supabase-pro/
+- 产品文档：https://art-si.github.io/art-supabase-doc/
 
 ## 本地开发
 
