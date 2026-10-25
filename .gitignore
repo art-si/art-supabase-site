@@ -2,3 +2,9 @@ node_modules/
 dist/
 .artifacts/
 *.local
+
+# Local IDE state and build/test diagnostics.
+.idea/
+*.log
+*.tsbuildinfo
+/coverage/
