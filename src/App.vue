@@ -223,7 +223,7 @@ function closeMenu() {
               <h2>每个领域，都有自己的专业答案。</h2>
               <p>从业务执行到组织治理，探索可组合的产品矩阵。</p>
             </div>
-            <span class="product-count">10 <small>个业务模块</small></span>
+            <span class="product-count">{{ modules.length }} <small>个业务模块</small></span>
           </div>
           <div class="filter-row" role="group" aria-label="筛选产品类别">
             <button
