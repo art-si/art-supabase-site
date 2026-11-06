@@ -1530,10 +1530,6 @@ img {
     height: 70px;
   }
 
-  .site-header {
-    position: absolute;
-  }
-
   .primary-nav {
     position: absolute;
     top: 70px;
